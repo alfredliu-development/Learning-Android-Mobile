@@ -22,7 +22,7 @@ class MainBottomNav extends StatelessWidget {
         Navigator.pushReplacementNamed(context, '/about');
         break;
     }
-  }
+  }Pertemu
 
   @override
   Widget build(BuildContext context) {
